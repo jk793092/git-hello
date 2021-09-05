@@ -1,1 +1,1 @@
-hello word text2
+hello word
